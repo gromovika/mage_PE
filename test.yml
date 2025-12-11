@@ -1,0 +1,2 @@
+- name: PlantUML Action
+  uses: Timmy/plantuml-action@v1
